@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋 Welcome to my GitHub profile 🙂
 
-<!--
-**AidaB9837/AidaB9837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## _I'm Aìda and I'm a JR Full Stack Developer_ ✨
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently using **HTML**, **CSS**, **SASS**, **Bootstrap**, **JavaScript**
+- 🌱 I’m currently learning **Node**, **React**, **Angular**, **TypeScript**
+- 👯 I am developing a real web application with **Agile** methodologies
+- ⚡ Open to Work
+
+____
+📫 How to reach me:
+* aidabrugnone9@gmail.com
+* **<a href="https://it.linkedin.com/in/aida-brugnone-06aaa014b" target="_blank">LinkedIn</a>**

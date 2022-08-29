@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently using **HTML**, **CSS**, **SASS**, **Bootstrap**, **JavaScript**
-- 🌱 I’m currently learning **Node**, **React**, **Angular**, **TypeScript**
+- 🌱 I’m currently learning **Node**, **React**, **TypeScript**
 - 👯 I am developing a real web application with **Agile** methodologies
 - ⚡ Open to Work
 

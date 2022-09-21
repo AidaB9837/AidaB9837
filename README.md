@@ -109,6 +109,6 @@
 <br>
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
-  <a target="_blank"href="https://it.linkedin.com/in/aida-brugnone-06aaa014b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="www.linkedin.com/in/aida-brugnone"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aidabrugnone9@gmail.com?subject=Hello%20Aida,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
